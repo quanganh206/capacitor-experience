@@ -1,0 +1,7 @@
+{
+  "appId": "com.xmobe.pos92019",
+  "appName": "ionic5",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

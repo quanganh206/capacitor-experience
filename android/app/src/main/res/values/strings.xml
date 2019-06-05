@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionic5</string>
+    <string name="title_activity_main">ionic5</string>
+    <string name="package_name">com.xmobe.pos92019</string>
+    <string name="fileprovider_authority">com.xmobe.pos92019.fileprovider</string>
+    <string name="custom_url_scheme">com.xmobe.pos92019</string>
+    <string name="fb_app_id">536259516852370</string>
+    <string name="fb_app_name">xMobe</string>
+</resources>
